@@ -14,7 +14,7 @@
 🚀 Goals:
 - Keep learning, building, and sharing
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shravani-bhosale-7889142a6/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shravani-bhosale-6675b236b/)
 
 🧪 Check out my repositories to see what I’m working on!
 
