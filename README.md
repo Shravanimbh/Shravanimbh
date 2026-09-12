@@ -1,21 +1,28 @@
-## Hi there 👋 I'm Shravani Bhosale
+# Hi, I'm Shravani Bhosale 👋
 
-🎓 I'm a 3rd-year AIML (Artificial Intelligence & Machine Learning) student at SIES GST, passionate about building intelligent systems and understanding how machines learn.
+I’m a final-year B.E. student in Artificial Intelligence & Machine Learning, interested in **computer vision, deep learning, and trustworthy AI**.
 
-🌱 Currently learning:
-- Machine Learning and Deep Learning
+I’m particularly drawn to problems that go beyond simply training a model — understanding model behavior, experimenting with different approaches, and finding ways to make AI systems more reliable and interpretable.
 
-💻 Projects I’ve worked on:
-- 🧠 Digit Recognition using Neural Networks (MNIST)
-- 🏠 House Price Prediction using Linear Regression
-- 📊 University Admission Prediction Model
-- 💼 Investment Portfolio Risk Analysis with Random Forest
+### Research interests
 
-🚀 Goals:
-- Keep learning, building, and sharing
+* Computer Vision
+* Deep Learning
+* Trustworthy & Explainable AI
+* Medical Image Analysis
+* Machine Learning
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shravani-bhosale-6675b236b/)
+### What I've been working on
 
-🧪 Check out my repositories to see what I’m working on!
+* Research on **diabetic retinopathy grading** using knowledge distillation and lesion-aware explanations
+* **Tuberculosis screening** using visual explanation faithfulness and uncertainty
+* Computer vision and **3D reconstruction**
+* Deep learning, speech processing, and other applied ML projects
+
+### Currently
+
+Exploring research problems in AI and building projects along the way.
+
+📫 **[LinkedIn](https://www.linkedin.com/in/shravani-bhosale-6675b236/)**
 
 “Stay hungry. Stay foolish.” – Steve Jobs
